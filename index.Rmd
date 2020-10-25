@@ -1,0 +1,6 @@
+---
+title: "Haoran Hu"
+---
+
+
+<img src=".\\pictures\\profile picture.png" style="width:50%" class="center">
