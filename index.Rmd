@@ -1,6 +1,15 @@
 ---
 title: "Haoran Hu"
 ---
+PhD Student in biostatistics<br>
+University of Pittsburgh
+
+<br>
+<center>
+<img src=".\\pictures\\profile picture.jpg" style="width:50%"> 
+</center>
+<br>
+
+I'm a first year PhD student in biostatistics at the University of Pittsburgh school of you can even flow text around an image placed on the left side of the page and then make the text wrap around a different image placed on the right side. In this instance, the break element . and its one attribute, Clear, come into use. Clear, as its name suggests, erases the alignment it specifies as its value. Therefore, this markup code stops the left-aligned image setting:ou can even flow text around an image placed on the left side of the page and then make the text wrap around a different image placed on the right side. In this instance, the break element .and its one attribute, Clear, come into use. Clear, as its name suggests, erases the alignment it specifies as its value. Therefore, this markup code stops the left-aligned image setting:ou can even flow text around an image placed on the left side of the page and then make the text wrap around a different image placed on the right side. In this instance, the break element,and its one attribute, Clear, come into use. Clear, as its name suggests, erases the alignment it specifies as its value. Therefore, this markup code stops the left-aligned image setting.
 
 
-<img src=".\\pictures\\profile picture.png" style="width:50%" class="center">
