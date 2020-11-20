@@ -1,0 +1,5 @@
+---
+title: "Plasticizer Exposure"
+---
+
+This is our final project for Data Science I course. We did some data visualization on plasticizer exposure and harmful effects of plasticizer exposure. Check out our [website](https://hh2767.github.io/p8105_final.github.io/index.html)!

@@ -1,0 +1,25 @@
+---
+title: "Risk factors of cognitive impairment"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Overview
+
+I worked as a research assistant with Dr. Zhezhen Jin. We were primarily interested in investigating the effects of the risk factors on the cognitive outcome levels as well as the interactions between aging and the other risk factors using data from Maracaibo Aging Study (MAS). My role in the research included following tasks:
+
+* Processed data for modeling, along with exploratory analysis
+* Fitted linear or generalized linear models with Generalized Estimating Equations (GEE) and included risk factor-by-time interaction terms to evaluate associations stated above
+* Checked linearity assumption by plotting marginal residuals vs. explanatory variables
+* Assessed the effects of missing data by multiple imputation and pooled analysis
+
+## Details
+
+### Poster
+<br><img src=".\\pictures\\poster.jpg" style="width:100%; border:1px solid"><br>
+
+### Report
+Click [here](.\\files\\Practicum Report Haoran Hu.pdf) for the report.
+

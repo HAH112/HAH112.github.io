@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Academic Experience"
 output: 
   html_document
 ---
@@ -22,7 +22,7 @@ output:
   <div class="details">
     <div>
       <h1><a href="https://publichealth.pitt.edu/">University of Pittsburgh, Graduate School of Public Health</a></h1>
-      <p>Proin condimentum tempus ultrices. </p>
+      <p>I'm currently a new PhD student in biostatistics at the University of Pittsburgh.</p>
     </div>
   </div>
 </div>
@@ -39,7 +39,35 @@ output:
   <div class="details">
     <div>
       <h1><a href="http://www.mailman.columbia.edu">Columbia University, Mailman School of Public Health</a></h1>
-      <p>Quisque vestibulum iaculis felis eget varius.  </p>
+      <strong>Received M.S. in Biostatistics in 2020</strong>
+      <br>
+      <strong>Research Project:</strong>
+      <ul>
+        <li><em>Relationship of education level and Apoe4 gene status with the rate of decline <br>in cognitive level, Jun.2019-May.2020. &nbspMentored by <a href="https://www.publichealth.columbia.edu/people/our-faculty/zjin">Dr. Zhezhen Jin.</a></em></li>
+        <ul>
+          <li>Processed data for modeling, along with exploratory analysis</li>
+          <li>Investigated associations between risk factors (educational level and ApoE4 gene <br>status) and changes in a variety of cognitive outcomes, including short term <br>memory, recognition memory, etc., adjusting for age, gender, etc.</li>
+          <li>Fitted GEE models and included risk factor-by-time interaction terms to evaluate <br>associations stated above</li>
+          <li>Checked linearity assumption by plotting marginal residuals vs. explanatory variables</li>
+          <li>Assessed the effects of missing data by multiple imputation and pooled analysis</li>
+          <li>Wrote statistical reports, and presented results to professor and collaborators</li>
+        </ul>
+      </ul>
+      <strong>Course projects:</strong>
+      <ul>
+        <li><em>Introduction to RCT course project, Apr.2019</em></li>
+        <ul>
+          <li>Prepared proposal for hypothetical NIH phase III two-parallel-group randomized <br>clinical trial evaluating efficacy and safety of LY3298176, a promising novel intervention<br> for type 2 diabetes mellitus</li>
+          <li>Addressed key issues related to randomized clinical trials: safety, outcome variables, <br>hypothesis formulation, power, stopping rules, etc.</li>
+        </ul>
+      </ul>
+      <ul>
+        <li><em>Data Science II course project, May.2019</em></li>
+        <ul>
+          <li>Performed descriptive analysis to explore the associations between cardiovascular<br> disease status and predictors</li>
+          <li>Built and compared several classifiers, including regularized logistic regression, <br>linear discriminant analysis, Naive Bayes, tree-based models and support vector machine to<br> classify the subjects based on their cardiovascular disease status</li>
+        </ul>
+      </ul>
     </div>
   </div>
 </div>
@@ -56,9 +84,27 @@ output:
   <div class="details">
     <div>
       <h1><a href="https://www.scut.edu.cn/en/">South China University of Technology, School of Mathematics</a></h1>
-      Research project:
-      <p>* Predicting miRNA-Disease associations based on similarity networks
-        * Read and presented papers on computational methods for microRNA-disease association prediction</p>
+      <strong>Received B.S. in Mathematics in 2018</strong>
+      <br>
+      <strong>Research project:</strong>
+      <ul>
+        <li><em>Predicting miRNA-Disease associations based on similarity networks, Jan-Feb.02<br> Mentored by <a href="https://scholar.google.com/citations?user=QEvG47IAAAAJ&hl=zh-CN">Dr. Xing Chen</a></em></li>
+        <ul>
+         <li>Read and presented papers on computational methods for microRNA-disease <br>association prediction</li>
+         <li>Based on algorithms provided by the papers, replicated results in the papers <br>through Matlab programming</li>
+         <li>Proposed improved <a href="https://pubs.rsc.org/en/content/articlelanding/2012/mb/c2mb25180a/unauth#!divAbstract">RWRMDA</a> algorithm by using Gaussian kernel function and <br>semantic similarity of diseases to construct disease similarity matrix</li>
+         <li>Validated accuracy of improved random walk through Matlab programming</li>
+        </ul>
+      </ul>
+      <strong>Undergraduate Thesis</strong>
+      <ul>
+         <li><em>Predicting Safety Level of Underground Gas Pipes, Jun. 2018</em></li>
+         <ul>
+           <li>Applied logistic regression, BP neural network, and fuzzy neural network to predict <br>underground gas pipeline safety level</li>
+           <li>Compared performance of these three methods using Matlab and Stata</li>
+           <li>Defended paperand won Outstanding Undergraduate Graduation Thesis Award</li>
+         </ul>
+      </ul>
     </div>
   </div>
 </div>

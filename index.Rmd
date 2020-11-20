@@ -1,8 +1,8 @@
 ---
 title: "Haoran Hu"
 ---
-PhD Student in biostatistics<br>
-University of Pittsburgh
+**PhD Student in biostatistics**<br>
+**University of Pittsburgh**
 
 <br>
 <center>
@@ -12,6 +12,6 @@ University of Pittsburgh
 
 <p align="left">I'm a first year PhD student in biostatistics at the University of Pittsburgh. In 2018, I received a BS in applied mathematics from [South China University of Technology](https://www.scut.edu.cn/en/). After that, I entered the master in biostatistics program at [Columbia University mailman school of public health](http://www.mailman.columbia.edu) and received the MS degree in 2020. Currently, I'm looking for research opportunities related to statistical learning within the field of biostatistics. [More about my academic Experience.](about.html) </p>
 
-*Contact Information:*
+**Contact Information:**
 
 * HAH112@pitt.edu

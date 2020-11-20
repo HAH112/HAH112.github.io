@@ -1,0 +1,8 @@
+---
+title: "Hypothetical clinical trial proposal"
+output: html_document
+---
+
+This is the course project for Introduction to RCT course(spring 2019). I prepared a proposal for a hypothetical NIH phase III two-parallel-group randomized clinical trial evaluating efficacy and safety of LY3298176, a promising novel intervention for type 2 diabetes mellitus. In the proposal, I addressed key issues related to randomized clinical trials: safety, outcome variables, hypothesis formulation, power, stopping rules, etc. The proposal is linked down below.
+
+* [LY3298176 VERSUS DULAGLUTIDE IN TYPE 2 DIABETES MELLITUS TREATMENT (LDT2DM)](.\\files\\Final_Proposal_Haoran.pdf)

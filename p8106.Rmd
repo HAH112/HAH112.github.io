@@ -1,0 +1,10 @@
+---
+title: "Cardiovascular disease prediction"
+output: html_document
+---
+
+In this project, we performed descriptive analysis to explore the associations between cardiovascular disease status and predictors. Then, we built and compared several classifiers, including regularized logistic regression, linear discriminant analysis, Naive Bayes, tree-based models and support vector machine to classify the subjects based on their cardiovascular disease status
+
+* Report: [Predicting heart disease status by patients’ information and medical test results](.\\files\\P8106 report.pdf)
+
+* Appendix: [Figures, tables and codes](.\\files\\P8106 appendix.pdf)

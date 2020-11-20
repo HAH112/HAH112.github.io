@@ -1,14 +1,28 @@
-name: "Yay internet!"
+name: "Haoran Hu"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
-    - text: "About"
+  left:
+    - text: "Academic experience"
       href: about.html
+    - text: "Projects"
+      menu:
+        - text: "Risk factors of cognitive impairment"
+          href: practicum.html
+        - text: "Hypothetical clinical trial proposal"
+          href: proposal.html
+        - text: "Cardiovascular disease status prediction"
+          href: p8106.html
+        - text: "Plasticizer exposure"
+          href: plasticizer.html
+
+  right:
+    - text: "CV"
+      href: Haoran Hu.pdf
     - icon: fa-envelope fa-lg
       href: mailto:<HAH112@pitt.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: https://github.com/hh2767?tab=repositories
 output:
   html_document:
     theme: flatly
