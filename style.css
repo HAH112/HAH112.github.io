@@ -4,6 +4,16 @@ body {
   font-family: arial, sans-serif;
 }
 
+/* Main Level */
+ul{
+  padding-left:20px;
+}
+
+/* Second Level */
+ul ul{
+  padding-left:10px;
+}
+
 .item {
   display: -webkit-box;
   display: -ms-flexbox;
