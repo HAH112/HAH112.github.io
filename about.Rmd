@@ -10,18 +10,18 @@ output:
 <link rel="stylesheet" href="style.css">
 
 
-  <div class="item">
+ <div class="item">
   <div class="image">
     <div>
-      <img src="http://lorempixel.com/400/400/people/1/" />
+      <img src="pictures/pitt.png">
       <span>
-      09.12.2016
+      2020.09 - &nbsppresent
       </span>
     </div>
   </div>
   <div class="details">
     <div>
-      <h1>Phasellus pharetra</h1>
+      <h1><a href="https://publichealth.pitt.edu/">University of Pittsburgh, Graduate School of Public Health</a></h1>
       <p>Proin condimentum tempus ultrices. </p>
     </div>
   </div>
@@ -30,15 +30,15 @@ output:
 <div class="item">
   <div class="image">
     <div>
-      <img src="http://lorempixel.com/400/400/people/3/" />
+      <img src="pictures/columbia.png" />
       <span>
-      08.12.2016
+      2018.09 - 2020.05
       </span>
     </div>
   </div>
   <div class="details">
     <div>
-      <h1>Proin consectetur</h1>
+      <h1><a href="http://www.mailman.columbia.edu">Columbia University, Mailman School of Public Health</a></h1>
       <p>Quisque vestibulum iaculis felis eget varius.  </p>
     </div>
   </div>
@@ -47,20 +47,21 @@ output:
 <div class="item">
   <div class="image">
     <div>
-      <img src="http://lorempixel.com/400/400/people/8/" />
+      <img src="pictures/scut1.png" />
       <span>
-      07.12.2016
+      2014.09 - 2018.06
       </span>
     </div>
   </div>
   <div class="details">
     <div>
-      <h1>Duis porta urna</h1>
-      <p>In nulla mi, ultrices et ullamcorper molestie, rhoncus at purus. justo.</p>
+      <h1><a href="https://www.scut.edu.cn/en/">South China University of Technology, School of Mathematics</a></h1>
+      Research project:
+      <p>* Predicting miRNA-Disease associations based on similarity networks
+        * Read and presented papers on computational methods for microRNA-disease association prediction</p>
     </div>
   </div>
 </div>
-  
 
 
 
