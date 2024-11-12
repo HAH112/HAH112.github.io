@@ -1,0 +1,34 @@
+---
+title: "Publications"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<br>
+
+### Methodology
+
+^: co-first author
+
+* **Hu H**, Wang X, Feng S, Xu Z, Liu J, O’Hare E, Chen Y, Yue M, Zeng L, Ding Y, Huang H, Duerr R, Chen W. A unified model-based framework for doublet or multiplet detection in single-cell multiomics data. <u>*Nature Communications*</u>. 15, 5562 (2024). https://doi.org/10.1038/s41467-024-49448-x <br> (Selected as a featured article in “Biotechnology and methods” section)<br>
+
+* Wang X, Xu Z, **Hu H**, Zhou X, Zhang Y, Lafyatis R, Chen K, Huang H, Ding Y, Duerr R, Chen W. SECANT: a biology-guided semi-supervised method for clustering, classification, and annotation of single-cell multi-omics. <u>*PNAS Nexus*</u>. 2022 Sep; 1(4): pgab165 https://doi.org/10.1093/pnasnexus/pgac165 <br>
+
+
+* Chen Y, Wu X, Ni K, **Hu H**, Yue M, Chen W, Huang H. Robust and Accurate Doublet Detection of Single-Cell Sequencing Data via Maximizing Area Under Precision-Recall Curve. *bioRxiv*; doi: https://doi.org/10.1101/2023.10.30.564840 <br>
+
+* Rong Z^, **Hu H^**, Duan J, Liu T, Feng S, Zhao C, Duerr, R, Zhou X, Chen W. scDitu: a cluster-free method for identifying isoform-level differential transcript usage in sparse single-cell long-read sequencing data. Under review at *RECOMB* conference
+
+* Yue M, Cai M, Zhao C, Tao S, Liu J, **Hu H**, Chen Y, Celedon J, Wang J, Huang H, Chen W. Multi-Omics intermediate Fusion Enable Digital White Blood Cells Count Prediction. Submitted to *Genome Medicine*
+
+* Yuan R, Rong Z, **Hu H**, Liu T, Tao S, Chen W. Harmony-Based Data Integration for Distributed Single-Cell Multi-Omics Data. Submitted to *Nature Communications*
+
+### Collaboration
+
+* Xu Z, Tao S, Feng S, Wang T, **Hu H**, O’Hare E, Chen W, Duerr R. Dissecting PGE2-Driven inhibition of T Cell Activation Using Single-Cell Multi-Omic and Inflammatory Bowel Disease Genetic Association Analysis. *Nature Genetics* (In revision)  
+
+### Book Chapter
+
+* Wang X, **Hu H**, Chen W. Model-based Clustering of Single-cell Data. Book Chapter In: Handbook of Statistical Bioinformatics (2nd Edition) 2022 (pp. 85-108). Chapman & Hall/CRC.
