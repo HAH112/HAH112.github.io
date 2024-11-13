@@ -22,7 +22,7 @@ navbar:
     - text: "CV"
       href: Haoran Hu.pdf
     - icon: fa-envelope fa-lg
-      href: mailto:<haoran.hu@pitt.edu>
+      href: mailto:<hah112@pitt.edu>
     - icon: fa-github fa-lg
       href: https://github.com/hh2767?tab=repositories
 output:
