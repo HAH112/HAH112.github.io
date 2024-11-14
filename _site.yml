@@ -23,8 +23,8 @@ navbar:
       href: Haoran Hu.pdf
     - icon: fa-envelope fa-lg
       href: mailto:<hah112@pitt.edu>
-    - icon: fa-github fa-lg
-      href: https://github.com/hh2767?tab=repositories
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=giL9N4gAAAAJ&hl=en&oi=ao
 output:
   html_document:
     theme: flatly
