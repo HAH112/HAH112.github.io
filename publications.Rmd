@@ -12,7 +12,7 @@ output:
 
 ^: co-first author
 
-* **Hu H**, Wang X, Feng S, Xu Z, Liu J, O’Hare E, Chen Y, Yue M, Zeng L, Ding Y, Huang H, Duerr R, Chen W. A unified model-based framework for doublet or multiplet detection in single-cell multiomics data. <u>*Nature Communications*</u>. 15, 5562 (2024). https://doi.org/10.1038/s41467-024-49448-x <br> (Selected as a featured article in “Biotechnology and methods” section)<br>
+* **Hu H**, Wang X, Feng S, Xu Z, Liu J, O’Hare E, Chen Y, Yue M, Zeng L, Rong Z, Chen T, Billiar T, Ding Y, Huang H, Duerr R, Chen W. A unified model-based framework for doublet or multiplet detection in single-cell multiomics data. <u>*Nature Communications*</u>. 15, 5562 (2024). https://doi.org/10.1038/s41467-024-49448-x <br> (Selected as a featured article in “Biotechnology and methods” section)<br>
 
 * Wang X, Xu Z, **Hu H**, Zhou X, Zhang Y, Lafyatis R, Chen K, Huang H, Ding Y, Duerr R, Chen W. SECANT: a biology-guided semi-supervised method for clustering, classification, and annotation of single-cell multi-omics. <u>*PNAS Nexus*</u>. 2022 Sep; 1(4): pgab165 https://doi.org/10.1093/pnasnexus/pgac165 <br>
 
