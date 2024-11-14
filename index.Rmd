@@ -10,8 +10,8 @@ title: "Haoran Hu"
 </center>
 <br>
 
-<p align="left">I'm a fourth-year PhD student in biostatistics at the University of Pittsburgh. In 2018, I received a BS in applied mathematics from [South China University of Technology](https://www.scut.edu.cn/en/). I then entered the master in biostatistics
-program at [Columbia University Mailman school of public health](http://www.mailman.columbia.edu) and received the MS degree in 2020. My research interests include statistical modeling, statistical inference and machine learning on health science data. [Details about my academic journey.](about.html) 
+<p align="left">I am a fourth-year Ph.D. student in biostatistics at the University of Pittsburgh, advised by [Dr. Wei Chen](https://www.pediatrics.pitt.edu/people/wei-chen-phd). In 2018, I received a B.S. in Applied Mathematics from [South China University of Technology](https://www.scut.edu.cn/en/). I then entered the master in biostatistics
+program at [Columbia University Mailman school of public health](http://www.mailman.columbia.edu) and received the M.S. degree in 2020. My research interests include statistical modeling, statistical inference and machine learning on health science data. [Details about my academic journey.](about.html) 
 
 I am currently seeking biostatistics internship opportunities for the summer of 2025.
 
